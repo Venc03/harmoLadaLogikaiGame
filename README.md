@@ -1,0 +1,1 @@
+# harom_lada_logikai_fejtoro
