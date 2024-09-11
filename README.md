@@ -4,4 +4,5 @@ Feladat: 3 láda van.Egy arany,ezüst,bronz.<br/>Mindegyik felet van egy felíra
 <br/>Ezüst:"Nem én rejtem a kincset!;
 <br/>Bronz:"Arany hazúdik!"
 <br/>Szerintem az ezüst ládába van.
+<br/>
 ![kinezet](https://github.com/user-attachments/assets/667a812a-0682-4395-a0f7-69835072d3a7)
